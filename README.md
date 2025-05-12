@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - IOS101
 
-Submitted by: **Your Name Here**
+Submitted by: Sophia Fu
 
-**Name of your app** is an app that... [TODO] 
+IOS101 is an app that shows a quick biography with a color changing background
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -25,6 +25,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 Describe any challenges encountered while building the app.
 
+The main challenge I faced was interacting with a new code editor.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
