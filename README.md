@@ -16,7 +16,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-![Guide](https://github.com/sf0628/minesweeper/assets/148008966/66b1ade9-20dd-46bf-820e-d08672ab9f57)
+https://github.com/sf0628/iOS101/issues/1#issue-3055577157
+![Guide](https://github.com/sf0628/iOS101/issues/1#issue-3055577157)
 [Guide]]([https://www.youtube.com/watch?v=GA92eKlYio4](https://i.imgur.com/a/usEzKTL.gif)) .
 
 ## App Brainstorming (Step 4)
