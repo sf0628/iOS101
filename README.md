@@ -16,9 +16,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-https://github.com/sf0628/iOS101/issues/1#issue-3055577157
-![Guide](https://github.com/sf0628/iOS101/issues/1#issue-3055577157)
-[Guide]]([https://www.youtube.com/watch?v=GA92eKlYio4](https://i.imgur.com/a/usEzKTL.gif)) .
+![ScreenRecording2025-05-11at11 00 45PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/60410789-7242-46c8-a711-9d27a7232a4a)
+
 
 ## App Brainstorming (Step 4)
 
